@@ -442,7 +442,7 @@ h6 {
 }
 
 .nav-menu ul li:hover > a {
-    color: #FFFFFF;
+    color: #666;
     background: #FFCC66;
     height: 300px;
               
@@ -627,6 +627,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about .about-col-1 {
     background: #FFCC66;
+    color: #666;
 }
 
 #about .about-col-1::before {
@@ -825,13 +826,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speaker .content-col h3 {
-    color: #ffffff;
+    color: #666;
     font-weight: 700;
     margin-bottom: 5px;
 }
 
 #speaker .content-col h4 {
-    color: #ffffff;
+    color: #666;
     font-size: 14px;
     font-weight: 400;
     margin-bottom: 15px;
@@ -852,7 +853,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speaker .content-col p {
-    color: #ffffff;
+    color: #666;
     font-size: 16px;
     line-height: 25px;
     font-weight: 300;
@@ -990,11 +991,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #venue .des-col {
     padding: 30px;
-    color: #ffffff;
+    color: #666;
 }
 
 #venue h2 {
-    color: #ffffff;
+    color: #666;
     font-size: 45px;
     font-weight: 700;
     text-transform: uppercase;
@@ -1015,7 +1016,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #venue h4 {
-    color: #ffffff;
+    color: #666;
     font-size: 14px;
     font-weight: 400;
     margin-bottom: 25px;
@@ -1081,12 +1082,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 #ticket .single-ticket a {
     display: inline-block;
     padding: 8px 30px;
-    color: #ffffff;
+    color: #666;
     background: #FFCC66;
 }
 
 #ticket .single-ticket:hover a {
-    color: #FFCC66;
+    color: #666;
     background: #222222;
 }
 
