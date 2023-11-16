@@ -259,7 +259,7 @@ h6 {
 /* ================================================= */
 
 .banner {
-    background: url("../img/banner.jpg") center top no-repeat;
+    background: url("../img/banner2.jpg") center top no-repeat;
     background-size: cover;
     padding: 300px 0 25px 0;
     position: relative;
@@ -2433,4 +2433,27 @@ label.fcf-label {
 
 input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
     width: 100%;
+}
+
+
+
+
+
+
+/*AUTO ZOOM  */
+
+@media(max-device-width:1280px){
+  html{
+    -moz-transform: scale(0.75, 0.75);
+    zoom: 0.75;
+    zoom: 75%;
+  }
+}
+
+@media(max-device-width:800px){
+  html{
+    -moz-transform: scale(0.50, 0.50);
+    zoom: 0.50;
+    zoom: 50%;
+  }
 }
