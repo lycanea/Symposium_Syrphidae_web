@@ -1218,8 +1218,11 @@
 .fa-instagram:before {
   content: "\f16d";
 }
+.fa-orcid:before {
+  content: "\f8d2";
+}
 .fa-flickr:before {
-  content: "\f16e";
+  content: "\f8d2";
 }
 .fa-adn:before {
   content: "\f170";
